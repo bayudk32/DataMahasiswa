@@ -1,0 +1,12 @@
+saya bayu
+
+
+;
+
+
+:
+
+
+
+echo. > testing.txt
+
